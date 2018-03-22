@@ -1,0 +1,54 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red53\green53\blue53;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c27059\c27059\c27059;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+How did viewing a diff between two versions of a file help you see the bug that\
+was introduced?\
+\
+    It made it much easier and faster.\
+\
+How could having easy access to the entire history of a file make you a more\
+efficient programmer in the long term?\
+\
+    It helps reduce man hours.\
+\
+What do you think are the pros and cons of manually choosing when to create a\
+commit, like you do in Git, vs having versions automatically saved, like Google\
+docs does?\
+\
+    You might forget to commit, or maybe your computer loses power.\
+\
+Why do you think some version control systems, like Git, allow saving multiple\
+files in one commit, while others, like Google Docs, treat each file separately?\
+\
+    Well, saving multiple files helps you decide which version you want to return to.\
+\
+How can you use the commands git log and git diff to view the history of files?\
+\
+    Fill in your answer here\
+\
+How might using version control make you more confident to make changes that\
+could break something?\
+\
+    When you make changes, you are sure there is always a way to undo. \
+\
+Now that you have your workspace set up, what do you want to try using Git for?\
+\
+    Fill in your answer here\
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1 \cf3 \kerning1\expnd0\expndtw0 	
+\f0 \cf2 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically \cf3 saved, like Google Docs does?\
+\
+\cf2 	Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?\
+\
+	How can you use the commands git log and git diff to view the history of files?\
+\
+\
+}
